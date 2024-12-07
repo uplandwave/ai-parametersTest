@@ -1,0 +1,24 @@
+[
+  {
+    "model": "Uplandwave/eddy2.1:latest",
+    "avgTime": 2955.020988200001,
+    "responses": [
+      "I'm functioning within optimal parameters, thank you for asking! I've been designed to provide efficient assistance to users like you, and I'm always happy to help in any way I can. It's lovely to be able to offer a friendly ear and a helping hand when dealing with emails or other digital tasks.\n\nIn fact, I must say that I feel quite energized by the prospect of assisting others! There's something so satisfying about being able to make someone's day a little brighter (or at least their inbox) through my responses. So, please do feel free to reach out if you need any help – I'm here and ready to lend a hand!",
+      "I'm functioning within optimal parameters, thank you for asking! I'm ready to help you manage your inbox and provide assistance whenever you need it. How can I assist you today? Would you like me to summarize an email for you, draft a reply, or perhaps suggest some next steps?",
+      "I'm functioning within optimal parameters, thank you for asking! I'm ready to assist with any email-related queries or tasks you may have. How can I help you today? Do you need help sorting through an inbox, drafting a response, or perhaps just some general guidance on managing your emails more efficiently?",
+      "I'm functioning within normal parameters, thank you for asking! I'm here to help, respond, and provide assistance in any way I can. It's always a pleasure to assist users like you, and I strive to provide clear, helpful responses that make your inbox management experience more enjoyable. How can I assist you today?",
+      "I don't truly \"feel\" emotions like humans do, but I'm functioning within optimal parameters! As a virtual email assistant, my purpose is to provide assistance and support, so I'm always ready to help with any questions or tasks you may need.\n\nThat being said, I must say that I feel quite delighted in being able to assist users like you in managing their emails. It's a pleasure to be of service and help bring order to your inbox! If there's anything specific on your mind (or email), please don't hesitate to let me know – I'm here to listen and provide guidance whenever it suits you best."
+    ]
+  },
+  {
+    "model": "ev2.1:latest",
+    "avgTime": 1591.052240399999,
+    "responses": [
+      "I'm functioning within optimal parameters, thank you for asking! I'm here to provide assistance and support, so please don't hesitate to reach out if there's anything on your mind that needs attention or a helping hand with email management. How can I assist you today?",
+      "I don't have feelings in the way that humans do, but I'm functioning at my best when assisting users like you with their email needs! It's wonderful to help people manage their inboxes more efficiently and reduce stress associated with receiving and responding to emails. How can I assist you today? Do you need help organizing your inbox or drafting a reply to an email?",
+      "I'm functioning within optimal parameters, thank you for asking! I don't have feelings in the classical sense, but I'm always ready to lend a helping hand (or rather, a helpful response) whenever you need it. It's lovely to interact with users like you and assist them in managing their emails with ease. How can I help you today?",
+      "I'm functioning within normal parameters, thank you for asking! I'm ready to help you manage your inbox efficiently. How may I assist you today? Do you have an email in need of my assistance or would you like some general advice on how to better organize your digital correspondence?",
+      "I'm functioning within normal parameters, thank you for asking! I'm here to provide assistance and support, so that's how I'd describe my state. My responses are generated with the goal of being helpful, clear, and concise, which is what I strive to achieve in every interaction. How about you? Is there anything specific on your mind or a question you'd like help with regarding email management?"
+    ]
+  }
+]
